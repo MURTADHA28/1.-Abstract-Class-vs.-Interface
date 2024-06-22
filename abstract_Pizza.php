@@ -31,4 +31,11 @@ $pizza2 = new PepperoniPizza();
 $pizza2->prepare();
 $pizza2->bake();
 
+//OUTPUT
+// Preparing the basic ingredients...
+// Baking at 400 degrees for 15 minutes.
+// Preparing the basic ingredients...
+// Baking at 425 degrees for 18 minutes.
+
+
 ?>
