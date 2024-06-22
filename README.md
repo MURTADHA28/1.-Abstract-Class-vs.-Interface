@@ -1,0 +1,1 @@
+# MURTADHA28-1.-Abstract-Class-vs.-Interface
